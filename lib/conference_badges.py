@@ -9,3 +9,4 @@ def assign_rooms(names):
 
 def printer(names):
     return None
+#GDC6
